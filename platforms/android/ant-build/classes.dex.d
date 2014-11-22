@@ -1,0 +1,20 @@
+/home/rohan/Desktop/_practice/hello/platforms/android/ant-build/classes.dex : \
+/home/rohan/Desktop/_practice/hello/platforms/android/ant-build/classes/org/apache/cordova/vibration/Vibration.class \
+/home/rohan/Desktop/_practice/hello/platforms/android/ant-build/classes/com/example/hello/CordovaApp.class \
+/home/rohan/Desktop/_practice/hello/platforms/android/ant-build/classes/com/example/hello/R$drawable.class \
+/home/rohan/Desktop/_practice/hello/platforms/android/ant-build/classes/com/example/hello/BuildConfig.class \
+/home/rohan/Desktop/_practice/hello/platforms/android/ant-build/classes/com/example/hello/R$xml.class \
+/home/rohan/Desktop/_practice/hello/platforms/android/ant-build/classes/com/example/hello/R$attr.class \
+/home/rohan/Desktop/_practice/hello/platforms/android/ant-build/classes/com/example/hello/R.class \
+/home/rohan/Desktop/_practice/hello/platforms/android/ant-build/classes/com/example/hello/R$string.class \
+/home/rohan/Desktop/_practice/hello/platforms/android/ant-build/classes/com/evothings/BLE.class \
+/home/rohan/Desktop/_practice/hello/platforms/android/ant-build/classes/com/evothings/BLE$2.class \
+/home/rohan/Desktop/_practice/hello/platforms/android/ant-build/classes/com/evothings/BLE$4.class \
+/home/rohan/Desktop/_practice/hello/platforms/android/ant-build/classes/com/evothings/BLE$3.class \
+/home/rohan/Desktop/_practice/hello/platforms/android/ant-build/classes/com/evothings/BLE$6.class \
+/home/rohan/Desktop/_practice/hello/platforms/android/ant-build/classes/com/evothings/BLE$BluetoothStateReceiver.class \
+/home/rohan/Desktop/_practice/hello/platforms/android/ant-build/classes/com/evothings/BLE$7.class \
+/home/rohan/Desktop/_practice/hello/platforms/android/ant-build/classes/com/evothings/BLE$5.class \
+/home/rohan/Desktop/_practice/hello/platforms/android/ant-build/classes/com/evothings/BLE$GattHandler.class \
+/home/rohan/Desktop/_practice/hello/platforms/android/ant-build/classes/com/evothings/BLE$1.class \
+/home/rohan/Desktop/_practice/hello/platforms/android/ant-build/dexedLibs/classes-7234055b75e0f67dc9a273a2f53f0386.jar \

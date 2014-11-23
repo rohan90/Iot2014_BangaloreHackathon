@@ -37,6 +37,9 @@
 /home/rohan/Desktop/_practice/hello/platforms/android/assets/www/img \
 /home/rohan/Desktop/_practice/hello/platforms/android/assets/www/index.html \
 /home/rohan/Desktop/_practice/hello/platforms/android/assets/www/js/index.js \
+/home/rohan/Desktop/_practice/hello/platforms/android/assets/www/js/lib \
+/home/rohan/Desktop/_practice/hello/platforms/android/assets/www/js/lib/jquery.min.js \
+/home/rohan/Desktop/_practice/hello/platforms/android/assets/www/js/lib/pusher.min.js \
 /home/rohan/Desktop/_practice/hello/platforms/android/assets/www/css/index.css \
 /home/rohan/Desktop/_practice/hello/platforms/android/assets/www/plugins/com.evothings.ble \
 /home/rohan/Desktop/_practice/hello/platforms/android/assets/www/plugins/org.apache.cordova.vibration \
@@ -44,4 +47,10 @@
 /home/rohan/Desktop/_practice/hello/platforms/android/assets/www/plugins/org.apache.cordova.vibration/www \
 /home/rohan/Desktop/_practice/hello/platforms/android/assets/www/plugins/org.apache.cordova.vibration/www/vibration.js \
 /home/rohan/Desktop/_practice/hello/platforms/android/assets/www/img/logo1.png \
+/home/rohan/Desktop/_practice/hello/platforms/android/assets/www/img/LL.png \
+/home/rohan/Desktop/_practice/hello/platforms/android/assets/www/img/pp-logo.png \
+/home/rohan/Desktop/_practice/hello/platforms/android/assets/www/img/Standing.png \
+/home/rohan/Desktop/_practice/hello/platforms/android/assets/www/img/LF.png \
+/home/rohan/Desktop/_practice/hello/platforms/android/assets/www/img/PP.png \
+/home/rohan/Desktop/_practice/hello/platforms/android/assets/www/img/LR.png \
 /home/rohan/Desktop/_practice/hello/platforms/android/ant-build/AndroidManifest.xml \
